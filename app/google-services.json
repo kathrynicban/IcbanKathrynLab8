@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177927682402",
+    "firebase_url": "https://icbankathrynlab8.firebaseio.com",
+    "project_id": "icbankathrynlab8",
+    "storage_bucket": "icbankathrynlab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177927682402:android:18762d24f548bd0e",
+        "android_client_info": {
+          "package_name": "kathryn.icban.com.icbankathrynlab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177927682402-9vo0jobflmv37fqc34mab7hq5tm42hhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kathryn.icban.com.icbankathrynlab8",
+            "certificate_hash": "3478e8e8a8e0b661b82a4698d0215845a1989e3b"
+          }
+        },
+        {
+          "client_id": "177927682402-rugn8q7d8stsgvigkijfkrncnnmt2738.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVdoF0nZOQf6kgVbn4ERywkn40ynPwfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177927682402-rugn8q7d8stsgvigkijfkrncnnmt2738.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
